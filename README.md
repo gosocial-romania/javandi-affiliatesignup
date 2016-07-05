@@ -2,7 +2,7 @@
 Javandi Custom Affiliate Singup
 
 
-``
+```
 
 var path = require('path');
 var root = process.cwd();
@@ -43,4 +43,4 @@ leovegas.do().then(function (result) {
 }).catch(function (err) {
   console.log('ERROR ' + JSON.stringify(err));
 });
-``
+```
