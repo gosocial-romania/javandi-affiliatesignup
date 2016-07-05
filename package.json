@@ -1,0 +1,19 @@
+{
+  "name": "javandi-affiliatesignup",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosocial-romania/javandi-affiliatesignup.git"
+  },
+  "author": "GoSocialDev",
+  "license": "ISC",
+  "homepage": "https://github.com/gosocial-romania/javandi-affiliatesignup",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "moment": "^2.14.1",
+    "request": "^2.72.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}
